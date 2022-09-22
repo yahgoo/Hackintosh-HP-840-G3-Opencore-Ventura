@@ -21,7 +21,7 @@ left and right USB ports including USB Type-C
 - Sleep (Lid, Energy Saver settings, Apple menu, PWR button) & wake (Lid, PWR button)
 - Battery management
 - Keyboard and touchpad
-- Keyboard backlight (Fn + F3)
+- Keyboard backlight (F5/F6)
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
 ![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Ventura/blob/main/img/macOS%20Ventura%20w%20Apple%20Watch%20Ultra%201600x900.png)
