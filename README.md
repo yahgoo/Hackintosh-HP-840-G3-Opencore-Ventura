@@ -9,8 +9,6 @@ OSXLatitude - Herve, Jake Lo
 - Updated to OC 0.8.5 and latest kexts like WEG to spoof SkyLake (SKL) to KabyLake (KBL)
 - AltStore 1.5.1 and iPadOS 16.0 works
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/dualOSon840G3.png)
-
 ## Working
 - Full graphics acceleration on Intel HD620 iGPU, including brightness control (F5 and F6)
 - Multi-display with DisplayPort OOB, VGA 
