@@ -26,7 +26,7 @@ left and right USB ports including USB Type-C
 - Keyboard backlight (Fn + F3)
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Monterey/blob/main/img/macOS%20Monterey%2012_3%20with%20Purple%20iPad%20Mini%206.png)
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Ventura/blob/main/img/macOS%20Ventura%20w%20Apple%20Watch%20Ultra%201600x900.png)
 
 ## Set bios settings as follows:
 Advanced tab:  
