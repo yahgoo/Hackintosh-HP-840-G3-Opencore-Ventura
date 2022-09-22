@@ -1,8 +1,5 @@
 # Hackintosh HP 840 G3 Opencore Ventura
 * Opencore EFI for HP 840 G3 running Ventura
-## Credits 
-OSXLatitude - Herve, Jake Lo  
-Opencore Dev Team
 
 ## Changes
 22092022
@@ -47,3 +44,7 @@ Power Management Options:
 - Deep sleep = You can keep this enabled
 - Wake when Lid is Opened = Enabled
 - Wake on USB = Disabled
+
+## Credits 
+OSXLatitude - Herve, Jake Lo  
+Opencore Dev Team
