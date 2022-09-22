@@ -2,6 +2,7 @@
 * Opencore EFI for HP 840 G3 running Ventura
 ## Credits 
 OSXLatitude - Herve, Jake Lo
+Opencore Dev Team
 
 ## Changes
 22092022
