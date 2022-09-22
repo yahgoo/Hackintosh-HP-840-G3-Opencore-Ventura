@@ -47,6 +47,7 @@ Power Management Options:
 
 ## Credits 
 OSXLatitude - Herve, Jake Lo  
+TonyMacx86 - Feartech  
 EliteMacx86 - EliteMacx86  
 Opencore Dev Team  
 
