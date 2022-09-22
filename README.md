@@ -24,6 +24,18 @@ left and right USB ports including USB Type-C
 
 ![Screenshot](https://github.com/yahgoo/Hackintosh-HP-840-G3-Opencore-Ventura/blob/main/img/macOS%20Ventura%20w%20Apple%20Watch%20Ultra%201600x900.png)
 
+# Specifications:
+* CPU: Intel Core i7-6600U
+* GPU: Intel HD Graphics HD 520
+* Resolution: 1600x900
+* Audio: Sunrise Point-LP HD Audio
+* Wi-Fi: BCM94360CS2
+* Bluetooth: Broadcom Bluetooth 4.0
+* Ethernet: Intel
+* Touchpad: Synaptics SMBus TouchPad
+* Card reader
+* Fingerprint: Synaptics Fingerprint Sensors
+
 ## Set bios settings as follows:
 Advanced tab:  
 Boot options:  
