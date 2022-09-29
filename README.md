@@ -12,8 +12,7 @@
 - Multi-display with DisplayPort OOB, VGA 
 - Audio, microphone input and headset output (F8 and F9) - Mute button not working
 - GigEthernet LAN connection
-- Wireless and bluetooth with any compatible card (a DW1560 in my case, no Whitelisting)
-left and right USB ports including USB Type-C
+- Wireless and bluetooth with any compatible card
 - Integrated webcam (OOB)
 - CPU power management
 - Sleep (Lid, Energy Saver settings, Apple menu, PWR button) & wake (Lid, PWR button)
