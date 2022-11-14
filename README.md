@@ -2,6 +2,9 @@
 * Opencore EFI for HP 840 G3 running Ventura
 
 ## Changes
+14112022
+- Updated to OC 0.8.7 and latest kexts
+
 22092022
 - Installed MacOS Ventura 13.0
 - Updated to OC 0.8.5 and latest kexts like WEG to spoof SkyLake (SKL) to KabyLake (KBL)
