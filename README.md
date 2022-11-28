@@ -2,7 +2,8 @@
 * Opencore EFI for HP 840 G3 running Ventura
 
 ## Changes
-14112022
+28112022
+- Updated to MacOS Ventura 13.1
 - Updated to OC 0.8.7 and latest kexts
 
 22092022
